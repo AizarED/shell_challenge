@@ -1,0 +1,14 @@
+Anomaly original indexes:
+10634
+36136
+57280
+57618
+60545
+63144
+118665
+128524
+131118
+
+Note: What defines an anomaly is unclear. These are indexes (times) of datapoints near where strange behaviour is observed in various features.
+These points in particular have only been identified because the behaviour of the asset near this point caused a shutdown in equipment, and so there are 
+conceivably many more anomalies in the dataset that have not been identified as of yet, with each being possibly of a unique nature.
